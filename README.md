@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I’m a **software engineer** passionate about **AI-driven backends** and **healthcare technology**. I specialize in Java (Quarkus, Spring Boot) and enjoy building **scalable, reliable systems** that integrate with modern AI tools.
 
-<!--
-**fejesa/fejesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Focus Areas
+- AI + Java: RAG, LangChain4j, Ollama, agentic patterns
+- Robust systems: integration testing, CI/CD, containerization
+- Healthcare tech: data integration & visualization from wearables
 
-Here are some ideas to get you started:
+## 🚀 Selected Projects
+- [**Quarkus RAG Assistant**](https://github.com/fejesa/quarkus-rag) – Java-based retrieval-augmented generation assistant.
+- [**AI Tools in Quarkus**](https://github.com/fejesa/quarkus-ai-functions) – Experiments with LLM-powered features in Quarkus.
+- [**Camel & Testcontainers**](https://github.com/fejesa/camel-and-testcontainers) – Practical integration testing setup.
+- [**Fitbit + Withings Visualizer**](https://github.com/fejesa/fitbit-withings-ui) – Health data aggregation and visualization.
+- And more :smirk:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Java, Quarkus, Spring Boot • LLMs, RAG • Docker, Kubernetes, Testcontainers • Angular, PrimeFaces
+
+---
+
+I’m always open to **collaboration** and new challenges in **AI** and **digital health** — feel free to connect!  
