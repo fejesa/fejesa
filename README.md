@@ -10,6 +10,7 @@ Hi, I’m a **software engineer** passionate about **AI-driven backends** and **
 - [**AI Tools in Quarkus**](https://github.com/fejesa/quarkus-ai-functions) – Experiments with LLM-powered features in Quarkus.
 - [**Camel & Testcontainers**](https://github.com/fejesa/camel-and-testcontainers) – Practical integration testing setup.
 - [**Fitbit + Withings Visualizer**](https://github.com/fejesa/fitbit-withings-ui) – Health data aggregation and visualization.
+- **File processing, benchmarks** on distributed environment, for example [S3](https://github.com/fejesa/quarkus-minio), [download using REST](https://github.com/fejesa/quarkus-file-download) or custom [file server](https://github.com/fejesa/reactive-file-server).
 - And more :smirk:
 
 ## 🛠 Tech Stack
